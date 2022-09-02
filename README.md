@@ -35,10 +35,10 @@ If you find the code useful for your research, please consider citing
 }
 ```
 
-This work is built upon some previous papers which might also interest you:
+This work is built upon some previous papers and opensource package which might also interest you:
 
-* Song, Yang, and Stefano Ermon. "Generative Modeling by Estimating Gradients of the Data Distribution." *Proceedings of the 33rd Annual Conference on Neural Information Processing Systems*. 2019.
-* Song, Yang, and Stefano Ermon. "Improved techniques for training score-based generative models." *Proceedings of the 34th Annual Conference on Neural Information Processing Systems*. 2020.
-* Ho, Jonathan, Ajay Jain, and Pieter Abbeel. "Denoising diffusion probabilistic models." *Proceedings of the 34th Annual Conference on Neural Information Processing Systems*. 2020.
+* Fey, Matthias and Lenssen, Jan E. "Fast Graph Representation Learning with PyTorch Geometric" *ICLR Workshop on Representation Learning on Graphs and Manifolds*. 2019.
+* Zhitao Ying, Dylan Bourgeois, Jiaxuan You, Marinka Zitnik, Jure Leskovec. "GNNExplainer: Generating Explanations for Graph Neural Networks" *Advances in Neural Information Processing Systems*. 2019.
+
 
 
