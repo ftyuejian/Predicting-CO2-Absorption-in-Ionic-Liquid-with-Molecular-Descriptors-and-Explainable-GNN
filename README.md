@@ -27,7 +27,7 @@ If you find the code useful for your research, please consider citing
 ```bib
 @inproceedings{
   Yue2022predictCO2,
-  title={Predicting $CO_2$ Absorption in Ionic Liquid with Molecular Descriptors and Explainable Graph Neural Networks},
+  title={Predicting CO2 Absorption in Ionic Liquid with Molecular Descriptors and Explainable Graph Neural Networks},
   author={Yue Jian and Yuyang Wang and Amir Barati Farimani},
   booktitle={},
   year={2022},
