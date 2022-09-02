@@ -50,7 +50,7 @@ if __name__ == '__main__':
 
     # loading pretrain model
     model = GIN(Args).to(device)
-    state_dict_mod = torch.load('best_model_para.pth', map_location=torch.device('cpu'))
+    state_dict_mod = torch.load('pretrained_model/best_model_para.pth', map_location=torch.device('cpu'))
     model.load_state_dict(state_dict_mod)
 
     # loading dataset
