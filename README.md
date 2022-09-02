@@ -1,5 +1,5 @@
 # Predicting-CO2-Absorption-in-Ionic-Liquid-with-Molecular-Descriptors-and-Explainable-GNN
-Data and code for Predicting CO2 Absorption in Ionic Liquid with Molecular Descriptors and Explainable GNN
+Data and code for Predicting $CO_2$ Absorption in Ionic Liquid with Molecular Descriptors and Explainable GNN
 ![paper pipeline](https://github.com/ftyuejian/Predicting-CO2-Absorption-in-Ionic-Liquid-with-Molecular-Descriptors-and-Explainable-GNN/blob/main/figure/overall.png)
 
 ## How to run the code
@@ -10,8 +10,12 @@ Data and code for Predicting CO2 Absorption in Ionic Liquid with Molecular Descr
 * run `python GIN_Runner.py` to reproduce GIN model result
 * run `python GAT_Runner.py` to reproduce GAT model result
 * run `python GCN_Runner.py` to reproduce GCN model result
+* noted that accuracy on test dataset may vary a little bit each time you run the code due to the random spliting for train and test dataset
 ### reproducing the result for fragment importance explanation with GNN Explainer
-
+* Entering /Explainer_for_ionic_molecule
+* run `explain_whole_dataset.ipynb` to visualizing the fragment importance explanation for the whole dataset 
+* run `explain_single_ionic_molecule_pair.ipynb ` to visualizing the explanation for single ionic molecule pair in hotmap form
+* run `python fragment_explain.py` to reproduce the fragment importance explanation process for the whole dataset
 
 ## About the data
 
