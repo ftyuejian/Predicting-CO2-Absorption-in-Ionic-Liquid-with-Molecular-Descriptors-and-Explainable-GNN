@@ -4,9 +4,12 @@ Data and code for Predicting CO2 Absorption in Ionic Liquid with Molecular Descr
 
 ## How to run the code
 ### reproducing the result for predicting properties with shallow machine learning
-entering Shallow_Machine_Learning_for_property_prediction, each jupyter notebook contain a reproducing code for each type of shallow machine learning method mentioned in paper
+* Entering /Shallow_Machine_Learning_for_property_prediction, each jupyter notebook contain a reproducing code for each type of shallow machine learning method mentioned in paper
 ### reproducing the result for predicting properties with GNN
-
+* Entering /GNN_for_property_prediction
+* run `python GIN_Runner.py` to reproduce GIN model result
+* run `python GAT_Runner.py` to reproduce GAT model result
+* run `python GCN_Runner.py` to reproduce GCN model result
 ### reproducing the result for fragment importance explanation with GNN Explainer
 
 
