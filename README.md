@@ -1,7 +1,7 @@
 # Predicting-CO2-Absorption-in-Ionic-Liquid-with-Molecular-Descriptors-and-Explainable-GNN
 Data and code for Predicting CO2 Absorption in Ionic Liquid with Molecular Descriptors and Explainable GNN
 ![paper pipeline](https://github.com/ftyuejian/Predicting-CO2-Absorption-in-Ionic-Liquid-with-Molecular-Descriptors-and-Explainable-GNN/blob/main/figure/overall.png)
----------
+
 ## How to run the code
 ### reproducing the result for predicting properties with shallow machine learning
 
@@ -9,14 +9,14 @@ Data and code for Predicting CO2 Absorption in Ionic Liquid with Molecular Descr
 
 ### reproducing the result for fragment importance explanation with GNN Explainer
 
----------
+
 ## About the data
 
 
 
 
 
----------
+
 ## Reference
 
 If you find the code useful for your research, please consider citing
